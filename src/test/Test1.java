@@ -15,7 +15,7 @@ public class Test1 {
 
 		System.out.println("Mang sau khi da tach:");
 		for (int i = 0; i < arr.length; i++) {
-			System.out.print(arr[i] + " ");
+			System.out.print(arr[i] + "");
 		}
 
 	}
